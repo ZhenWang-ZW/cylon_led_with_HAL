@@ -1,0 +1,11 @@
+main.c:84:5:main	200	static
+main.c:176:6:TOGGLE_CYLON_DISPLAY	24	static
+main.c:192:6:RESET_ALL_LED	24	static
+main.c:199:6:SET_ALL_LED	24	static
+main.c:206:6:SET_PART_LED	24	static
+main.c:218:6:GET_PART_LET_POSITIONS_BY_ADC_VALUE	16	static
+main.c:258:6:SystemClock_Config	232	static
+main.c:320:13:MX_ADC1_Init	48	static
+main.c:386:13:MX_USART2_UART_Init	8	static
+main.c:421:13:MX_GPIO_Init	48	static
+main.c:477:6:Error_Handler	4	static
